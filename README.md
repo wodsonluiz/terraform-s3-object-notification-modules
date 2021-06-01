@@ -58,6 +58,6 @@ module "bucket" {
 
 ## Authors
 
-Module managed by [Cleber Gasparoto](https://github.com/chgasparoto)
+Module managed by [Wodson Luiz](https://github.com/wodsonluiz)
 
 ## License
